@@ -15,8 +15,7 @@ function Header() {
                 <div className='md:float-left block'>
                     <Link href="/">
                         <span className='cursor-pointer font-bold text-4xl text-white'>
-                            Tech Veyron
-                        </span>
+                            mzart.in </span>
                     </Link>
                 </div>
                 <div className='hidden md:float-left md:contents'>
