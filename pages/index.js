@@ -11,6 +11,7 @@ const Index = ({ posts }) => {
       <FeaturedPosts />
       <Head>
         <title>mzart.in</title>
+        <meta name="google-site-verification" content="r6xM6QvQqDZFgp22dwdD0ElKyMEYaOaJlLOQUk2VuW0" />
       </Head>
       <div className='grid grid-cols-1 lg:grid-cols-12 gap-12 -mx-5'>
         <div className='lg:col-span-8 col-span-1 '>
